@@ -1,2 +1,2 @@
 # copia-tabnews
-Implementação do tabnews do curso.dev
+Implementação local do tabnews do curso.dev
